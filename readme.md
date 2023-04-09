@@ -1,9 +1,9 @@
-# Tailwind Sandbox
 
-This is part of my Tailwind From Scratch course. The sandbox contains around 20 different folders/files that focus on specific aspects/classes of Tailwind.
 
-If you are taking the course, use the **"tailwind-sandbox-starter"** folder and work through the course with me. The **"tailwind-sandbox-done"** folder is obviously the finished code.
+## Clipboard - an HTML/CSS landing page
 
-We are just using the Play CDN for this part of the course.
+[Click here to view the webpage.](https://6432f16eb1642c493e8acad5--cozy-paletas-9f0b17.netlify.app/)
 
-The main projects for the course will be in a different repo.
+---
+
+![Image](./clipboard.png)
